@@ -1,7 +1,7 @@
 Tanmoy ={
     name:"Tanmoy",
     favNum: 69,
-    developer: true
+    developer: false
 }
 
 module.exports = Tanmoy;
