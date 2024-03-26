@@ -12,4 +12,4 @@ fs.writeFile('file2.txt', "This is file 2 content",()=>{
     console.log("file changed");
 })
 
-console.log("Finishing reading file");
+console.log("Finishing reading file"); 
